@@ -32,3 +32,5 @@ for i in range(len(in_str)-1, -1, -1):  # 5부터 시작해야 하는데 len으�
 #방법2
 reverse_str = in_str[::-1]
 print(reverse_str)
+
+asdf
